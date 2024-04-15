@@ -83,7 +83,7 @@ Ali Faez, <afaez@uwaterloo.ca>
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Kotlin]: https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin
 [Kotlin-url]: https://kotlinlang.org/
-[Android]: https://img.shields.io/badge/Kotlin-green?style=for-the-badge&logo=android
+[Android]: https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android
 [Android-url]: https://developer.android.com/
 [Firebase]: https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase
 [Firebase-url]: https://firebase.google.com/
