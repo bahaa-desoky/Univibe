@@ -1,5 +1,7 @@
 # Univibe
 
+![alt text](public/univibe-google.png)
+
 ## Project Description
 
 Univibe is a campus exploration app that helps students share and discover interesting places around campus. Users can create their own profiles and post about unique places or events around their university, and earn awards based on their activity on the app!
