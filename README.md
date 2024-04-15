@@ -4,6 +4,13 @@
 
 Univibe is a campus exploration app that helps students share and discover interesting places around campus. Users can create their own profiles and post about unique places or events around their university, and earn awards based on their activity on the app!
 
+## Built With
+
+* [![Android][Android]][Android-url]
+* [![Kotlin][Kotlin]][Kotlin-url]
+* [![Firebase][Firebase]][Firebase-url]
+* [![GCP][GCP]][GCP-url]
+
 ## Installation
 Download the app from the Google Play Store!
 [Google Play Store Page](https://play.google.com/store/apps/details?id=com.team10210.univibe)
@@ -71,3 +78,14 @@ Sowad Khan, <s549khan@uwaterloo.ca>
 Bahaa Desoky, <b2desoky@uwaterloo.ca>
 Omer Faruk, <ofyildir@uwaterloo.ca>
 Ali Faez, <afaez@uwaterloo.ca>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Kotlin]: https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin
+[Kotlin-url]: https://kotlinlang.org/
+[Android]: https://img.shields.io/badge/Kotlin-green?style=for-the-badge&logo=android
+[Android-url]: https://developer.android.com/
+[Firebase]: https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase
+[Firebase-url]: https://firebase.google.com/
+[GCP]: https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=google-cloud
+[GCP-url]: https://cloud.google.com/?hl=en
