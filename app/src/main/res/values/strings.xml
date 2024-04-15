@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Strings for common text used in app -->
+    <string name="app_name">Univibe</string>
+    <string name="email">Email</string>
+    <string name="email_invalid">Invalid Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_match_error">Password Doesn\'t Match!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="no_account_prompt">Don\'t have an account?</string>
+    <string name="sign_up_invalid">Some fields are empty or invalid!</string>
+    <string name="log_in_invalid">Username or Password incorrect</string>
+    <string name="out_of_spins">You ran out of weekly spins, please come back later!</string>
+    <string name="new_post">New Post</string>
+    <string name="new_comment">New Comment</string>
+    <string name="new_comment_content">Write your comment…</string>
+    <string name="new_post_desc">Write a meaningful description…</string>
+    <string name="new_post_addr">Enter location address…</string>
+    <string name="new_post_image">Add image</string>
+    <string name="post">Post</string>
+    <string name="new_post_or_event">Is this an event?</string>
+    <string name="new_event_date">Date</string>
+    <string name="new_event_time">Time</string>
+    <string name="select_uni">Select University</string>
+    <string name="select_uni_screen">Select Your University</string>
+
+    <!-- Routes -->
+    <string name="auth_route">auth</string>
+    <string name="badge_list_route">badgeList</string>
+    <string name="log_in_route">login</string>
+    <string name="sign_up_route">signup</string>
+    <string name="onboarding_route">onboarding</string>
+    <string name="home_route">home</string>
+    <string name="main_route">main</string>
+    <string name="post_details_route">details</string>
+    <string name="map_route">map</string>
+    <string name="calendar_route">calendar</string>
+    <string name="spinwheel_route">spinwheel</string>
+    <string name="create_post_route">createpost</string>
+    <string name="profile_route">profile</string>
+    <string name="liked_posts_route">liked_posts</string>
+    <string name="my_comments_route">my_comments</string>
+</resources>

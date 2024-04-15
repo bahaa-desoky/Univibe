@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756469797645",
+    "project_id": "univibe-9bdea",
+    "storage_bucket": "univibe-9bdea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756469797645:android:fd57097c500346dacdd644",
+        "android_client_info": {
+          "package_name": "com.team10210.univibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
