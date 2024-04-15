@@ -70,7 +70,7 @@ Welcome to Univibe, the ultimate social platform tailored for university student
 <img src="public/univibe-spinwheel.jpg" alt="drawing" width="200"/>
 </details>
 
-#### Univibe is here to make your university experience unforgettable. Start exploring, connecting, and enjoying everything our app has to offer!**
+#### Univibe is here to make your university experience unforgettable. Start exploring, connecting, and enjoying everything our app has to offer!
 
 ## Team members
 
