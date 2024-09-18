@@ -2,6 +2,8 @@
 
 ![alt text](public/univibe-google.png)
 
+NOTE: This project was copied from the original repository in GitLab, where it was co-developed by 4 students. Team members can be found below
+
 ## Project Description
 
 Univibe is a campus exploration app that helps students share and discover interesting places around campus. Users can create their own profiles and post about unique places or events around their university, and earn awards based on their activity on the app!
